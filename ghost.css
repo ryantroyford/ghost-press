@@ -54,6 +54,19 @@ footer{
 	padding-top: 20px;
 }
 
+	footer a{
+		text-decoration: underline;
+		color: #c6c0a9;
+	}
+
+		footer a:hover{
+			text-decoration: none;
+		}
+
+.copyright{
+	font-size: 10px;
+}
+
 .clearfix { display:block; }
 .clearfix:after {
   content:'';
